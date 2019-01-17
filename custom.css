@@ -542,6 +542,11 @@ ts-message a.timestamp{
    color: var(--text);
 }
 
+.c-member_slug--link
+{
+    background: unset;
+}
+
 /* user mentions for other people */
 .app_preview_link_slug.ts_tip,
 .internal_member_link.ts_tip,
